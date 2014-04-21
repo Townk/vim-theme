@@ -55,7 +55,7 @@ elseif has("gui_running") || (&t_Co == 256 && (&term ==# "xterm" || &term =~# "^
     CSAHi NonText term=bold cterm=bold ctermbg=bg ctermfg=238 gui=bold guibg=bg guifg=#424242
     CSAHi Directory term=bold cterm=NONE ctermbg=bg ctermfg=109 gui=NONE guibg=bg guifg=#6c8095
     CSAHi ErrorMsg term=NONE cterm=NONE ctermbg=bg ctermfg=173 gui=NONE guibg=bg guifg=#cf6a4c
-    CSAHi IncSearch term=reverse cterm=NONE ctermbg=59 ctermfg=fg gui=NONE guibg=#343a44 guifg=fg
+    CSAHi IncSearch term=reverse cterm=NONE ctermbg=59 ctermfg=fg gui=NONE guibg=#9ca9b7 guifg=fg
     CSAHi Search term=reverse cterm=NONE ctermbg=59 ctermfg=fg gui=NONE guibg=#343a44 guifg=fg
     CSAHi MoreMsg term=bold cterm=bold ctermbg=bg ctermfg=144 gui=bold guibg=bg guifg=#8f9d6a
     CSAHi ModeMsg term=bold cterm=bold ctermbg=bg ctermfg=144 gui=bold guibg=bg guifg=#8f9d6a
@@ -296,7 +296,7 @@ elseif has("gui_running") || (&t_Co == 256 && (&term ==# "xterm" || &term =~# "^
     CSAHi NonText term=bold cterm=bold ctermbg=bg ctermfg=238 gui=bold guibg=bg guifg=#424242
     CSAHi Directory term=bold cterm=NONE ctermbg=bg ctermfg=146 gui=NONE guibg=bg guifg=#6c8095
     CSAHi ErrorMsg term=NONE cterm=NONE ctermbg=bg ctermfg=210 gui=NONE guibg=bg guifg=#cf6a4c
-    CSAHi IncSearch term=reverse cterm=NONE ctermbg=60 ctermfg=fg gui=NONE guibg=#343a44 guifg=fg
+    CSAHi IncSearch term=reverse cterm=NONE ctermbg=60 ctermfg=fg gui=NONE guibg=#9ca9b7 guifg=fg
     CSAHi Search term=reverse cterm=NONE ctermbg=60 ctermfg=fg gui=NONE guibg=#343a44 guifg=fg
     CSAHi MoreMsg term=bold cterm=bold ctermbg=bg ctermfg=150 gui=bold guibg=bg guifg=#8f9d6a
     CSAHi ModeMsg term=bold cterm=bold ctermbg=bg ctermfg=150 gui=bold guibg=bg guifg=#8f9d6a
@@ -537,7 +537,7 @@ elseif has("gui_running") || &t_Co == 256
     CSAHi NonText term=bold cterm=bold ctermbg=bg ctermfg=238 gui=bold guibg=bg guifg=#424242
     CSAHi Directory term=bold cterm=NONE ctermbg=bg ctermfg=66 gui=NONE guibg=bg guifg=#6c8095
     CSAHi ErrorMsg term=NONE cterm=NONE ctermbg=bg ctermfg=167 gui=NONE guibg=bg guifg=#cf6a4c
-    CSAHi IncSearch term=reverse cterm=NONE ctermbg=59 ctermfg=fg gui=NONE guibg=#343a44 guifg=fg
+    CSAHi IncSearch term=reverse cterm=NONE ctermbg=59 ctermfg=fg gui=NONE guibg=#9ca9b7 guifg=fg
     CSAHi Search term=reverse cterm=NONE ctermbg=59 ctermfg=fg gui=NONE guibg=#343a44 guifg=fg
     CSAHi MoreMsg term=bold cterm=bold ctermbg=bg ctermfg=107 gui=bold guibg=bg guifg=#8f9d6a
     CSAHi ModeMsg term=bold cterm=bold ctermbg=bg ctermfg=107 gui=bold guibg=bg guifg=#8f9d6a
@@ -778,7 +778,7 @@ elseif has("gui_running") || &t_Co == 88
     CSAHi NonText term=bold cterm=bold ctermbg=bg ctermfg=80 gui=bold guibg=bg guifg=#424242
     CSAHi Directory term=bold cterm=NONE ctermbg=bg ctermfg=37 gui=NONE guibg=bg guifg=#6c8095
     CSAHi ErrorMsg term=NONE cterm=NONE ctermbg=bg ctermfg=53 gui=NONE guibg=bg guifg=#cf6a4c
-    CSAHi IncSearch term=reverse cterm=NONE ctermbg=80 ctermfg=fg gui=NONE guibg=#343a44 guifg=fg
+    CSAHi IncSearch term=reverse cterm=NONE ctermbg=80 ctermfg=fg gui=NONE guibg=#9ca9b7 guifg=fg
     CSAHi Search term=reverse cterm=NONE ctermbg=80 ctermfg=fg gui=NONE guibg=#343a44 guifg=fg
     CSAHi MoreMsg term=bold cterm=bold ctermbg=bg ctermfg=37 gui=bold guibg=bg guifg=#8f9d6a
     CSAHi ModeMsg term=bold cterm=bold ctermbg=bg ctermfg=37 gui=bold guibg=bg guifg=#8f9d6a
